@@ -9,4 +9,3 @@ if(edadIngresada<12) {
 } else if(edadIngresada>=60) {
     console.log("Adulto mayor");
 } 
-

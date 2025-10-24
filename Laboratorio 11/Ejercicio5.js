@@ -22,7 +22,7 @@ do {
     let respuesta = prompt("¿Desea ingresar otro monto? (SÍ / NO)");
     console.log("Respuesta: " + respuesta);
     if(respuesta.toLowerCase() === "sí") {
-        repetir = true
+        repetir = true;
     } else {
         console.log("Cerrando el sistema...");
     }

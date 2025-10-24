@@ -3,7 +3,7 @@ let repetir;
 do {
     let numIngresado = parseInt(prompt("Ingrese un número:"));
     console.log("Número ingresado: " + numIngresado);
-    console.log("--- Tabla de multiplicar del " + numIngresado + " ---\n");
+    console.log("--- Tabla de multiplicar del " + numIngresado + " ---");
     let producto;
     for(let i=1;i<=12;i++) {
         producto = numIngresado * i;
