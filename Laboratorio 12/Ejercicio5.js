@@ -15,4 +15,3 @@ if(esMultiplo(num1, num2)) {
 } else {
     console.log("¡" +num1 +" NO es múltiplo de " +num2 +"!");
 }
-
